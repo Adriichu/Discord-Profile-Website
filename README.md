@@ -2,8 +2,7 @@
 
 # Discord Profile Themed Website
 
-> Made with CSS and HTML. 
-<br>
 > Have a *Discordy* website of your own 😉
+
 <br><br>
 ---
