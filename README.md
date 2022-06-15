@@ -16,4 +16,4 @@
 
 --- 
 
-### If you like it please star the project! ⭐
+### ── If you like it please star the project! ⭐
