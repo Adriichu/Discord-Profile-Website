@@ -2,7 +2,7 @@
 
 # Discord Profile Themed Website
 
-> Have a *Discordy* website of your own 😉
+Have a *Discordy* website of your own 😉
 
 <br><br>
 
