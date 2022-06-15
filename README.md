@@ -26,4 +26,4 @@ Have a *Discordy* website of your own 😉
 
 ---
 
-<img src="[https://cdn.discordapp.com/attachments/986541842025836554/986580295539126333/858da0c8898e2f7d4a3c2c65c18f5fa5-modified.png](https://cdn.discordapp.com/attachments/898963084792701019/986587812251963402/Discord_Profile.png)">  
+<img src="https://cdn.discordapp.com/attachments/898963084792701019/986587812251963402/Discord_Profile.png">  
