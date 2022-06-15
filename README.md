@@ -17,3 +17,9 @@
 --- 
 
 ### ── If you like it please star the project! ⭐
+
+--- 
+
+### ── Frameworks Used: 
+
+![Frameworks Used](https://skillicons.dev/icons?i=html,css)
