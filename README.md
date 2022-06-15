@@ -3,5 +3,5 @@
 # Discord Profile Website
 
 > Have a *Discordy* website of your own 😉
-<br><br>
+<br>
 ---
