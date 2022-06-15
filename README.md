@@ -8,8 +8,7 @@
 
 ---
 
-### ── Need Help?
-DM me on Discord, My tag is `Aaron_#7013`.
+### ── Need Help? DM me on Discord, My tag is `Aaron_#7013`.
 
 ---
 
