@@ -2,6 +2,6 @@
 
 # Discord Profile Website
 
-> Majo.exe have almost everything - Fun, Memes, Images, Giveaway Moderation, Anime, NSFW and even more! Majo.exe serve over 150 commands!
+> Have a *Discordy* website of your own 😉
 <br><br>
 ---
