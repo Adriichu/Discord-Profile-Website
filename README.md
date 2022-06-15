@@ -2,7 +2,7 @@
 
 # Discord Profile Website
 
-> Made with CSS and HTML. 
+> Made with CSS and HTML. <br>
 > Have a *Discordy* website of your own 😉
 <br><br>
 ---
