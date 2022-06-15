@@ -12,3 +12,5 @@
 DM me on Discord, My tag is `Aaron_#7013`.
 
 ---
+
+### ── Be sure to credit me if you use it <3
